@@ -1,0 +1,17 @@
+Name:
+Software Engineer Intern
+
+NewsOnChat INC., Santa Clara, CA      5/2017 – 11/2017(exp.)
+
+Details:
+•	Key front-end developer for image display feature of a mobile social app with React Native framework.
+   - Built a reusable class called ‘ImageView’ to display all images from different parts in the app.
+   - Applied Redux as data container and controller to make data flow easy to manage, and highly readable.
+ - Built image cache feature for online images to significantly reduce app latency and internet usage.
+ - Linked local cache path with image URI by key-value storage package called AsyncStorage.
+ - Designed global monitor for images being downloaded to avoid redundant downloads.
+•	Optimized file storage in server by utilizing distributed file system from back-end.
+ - Built upload feature to store files in server classified by channel or group to clean up the server storage.
+•	Created a Map View feature in Events Screen based on the event location to improve user experience.
+
+
