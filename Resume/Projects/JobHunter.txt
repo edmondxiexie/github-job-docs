@@ -1,0 +1,15 @@
+Name:
+JobHunter: A Job-Search App for ios and Android
+
+Tech:
+React Native, Redux, JS
+
+Time:
+Jun. 2017
+
+Details:
+•	Built an app with a full welcome-screen tutorial for new users, and auth them using Facebook OAuth.
+•	Allowed users to search for nearby jobs on map feature based on their location using Indeed’s Job API.
+•	Provided an info card list of jobs for users to like or dislike by swiping left or right.
+•	Utilized Redux to manage the states of the app making the app behave consistently, and easy to test.
+

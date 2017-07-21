@@ -1,0 +1,14 @@
+Name:
+A Personal Fitness App for recording calories burning in exercises
+
+Tech:
+Java, Swing
+
+Time:
+Oct. 2016
+
+Details:
+•	Created interactive interface with Swing package for user to input date, activity type, hours for exercise.
+•	Displayed the details and summaries for all the records in chronological order with high readability.
+•	Allowed users to add or delete preset activities to improve efficiency and convenience.
+

@@ -1,0 +1,14 @@
+Name:
+Indoor Sniper: A gravity based Computer game
+
+Tech:
+Python, Pygame
+
+Time:
+Dec. 2015
+
+Details:
+•	Designed a multi-level game like Angry Bird with Pygame package and provided a level editor.
+•	Built the interactive GUI of the game, added the sound effect and animation effect.
+•	Designed an object impact engine and gravity simulator for the game to realize the motion effect.
+
