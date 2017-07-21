@@ -9,6 +9,6 @@ March. 2017
 
 Details:
 Analyzed big data about rating history from Netflix to recommend similar movies for each user.
-Used Item Collaborative Filtering to build co-occurrence matrix for describing relations between movies.
-Built user-rating matrix as weighting factors to correct relations between movies.
+Used Item Collaborative Filtering to build a normalized co-occurrence matrix for describing relations between movies.
+Built user-rating matrix as weighting factors multiplied by co-occurrence matrix to get recommendation levels.
 Utilized 5 MapReduce jobs chain to generate the recommender list.
